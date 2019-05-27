@@ -2,7 +2,7 @@
 2019-06-03  - Introduction to Version Control with Git
 ******************************************************
 
-:Date & place:  AZTI-TECNALIA Pasajes, Room TBD, 3rd June, 9:30-17:30 2019
+:Date & place:  AZTI-TECNALIA Pasajes, Salón de Actos, 3rd June, 9:30-17:30 2019
 :Track: Introduction to Version Control with Git
 :Material: http://iamc.eu/2019-06-03-azti-shell 
            
