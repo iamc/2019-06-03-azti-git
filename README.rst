@@ -2,7 +2,7 @@
 2019-06-03  - Introduction to Version Control with Git
 ******************************************************
 
-:Date & place:  AZTI-TECNALIA Pasajes, Salón de Actos, 3rd June, 9:00-17:30 2019
+:Date & place:  AZTI-TECNALIA Pasajes, Salón de Actos, Tuesday June the 4th, 9:00-17:00 2019
 :Track: Introduction to Version Control with Git
 :Material: http://iamc.eu/2019-06-03-azti-shell 
            
@@ -59,18 +59,17 @@ want.
 Temptative schedule
 ###################
 
-* 9:00-10:00 Introduction to the UNIX Shell
+* 9:00-10:00 Introduction to the UNIX Shell.
 * 10:00-11:30 Introduction to version control and basic command line
   Git usage.
 * *11:30-12:00 coffee break*
 * 12:30-14:00 GitHub: group collaboration and conflict resolution
-  (working in pairs)
+  (working in pairs).
 * *14:00-15:00 lunch*
 * 15:00-16:00 Contributing to projects with GitHub, pull requests
-  (working in pairs)
-* 16:00-17:00 Git - GitHub - R-Studio integration. Create toy project
-  and manage it from R-Studio (maybe 1h30m?)
-* 17:00-17:30 Git front-ends overview
+  (working in pairs).
+* 16:00-16:30 Git - GitHub - R-Studio integration.
+* 16:30-17:00 Git front-ends overview.
 
 
 Lesson material and License

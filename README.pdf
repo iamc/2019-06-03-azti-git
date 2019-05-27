@@ -95,21 +95,21 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://swcarpentry.github.io/git-novice/)
->> /Border [ 0 0 0 ] /Rect [ 189.6029 430.0236 433.2421 442.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 189.6029 442.0236 433.2421 454.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://swcarpentry.github.io/shell-novice/)
->> /Border [ 0 0 0 ] /Rect [ 457.9329 430.0236 529.0327 442.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 457.9329 442.0236 529.0327 454.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://creativecommons.org/licenses/by/4.0/)
->> /Border [ 0 0 0 ] /Rect [ 194.4029 400.0236 479.5029 412.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 194.4029 412.0236 479.5029 424.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
@@ -129,7 +129,7 @@ endobj
 endobj
 20 0 obj
 <<
-/Author () /CreationDate (D:20190527093821-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527093821-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190527120435-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527120435-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (2019-06-03  - Introduction to Version Control with Git) /Trapped /False
 >>
 endobj
@@ -155,7 +155,7 @@ endobj
 endobj
 25 0 obj
 <<
-/Dest [ 18 0 R /XYZ 62.69291 469.0236 0 ] /Parent 21 0 R /Prev 24 0 R /Title (Lesson material and License)
+/Dest [ 18 0 R /XYZ 62.69291 481.0236 0 ] /Parent 21 0 R /Prev 24 0 R /Title (Lesson material and License)
 >>
 endobj
 26 0 obj
@@ -165,7 +165,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 6868
+/Length 6880
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -188,7 +188,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (AZTI-TECNALIA Pasajes, Sal\363n de Actos, 3rd June, 9:00-17:30 2019) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (AZTI-TECNALIA Pasajes, Sal\363n de Actos, Tuesday June the 4th, 9:00-17:00 2019) Tj T* ET
 Q
 Q
 q
@@ -515,7 +515,7 @@ endstream
 endobj
 28 0 obj
 <<
-/Length 4486
+/Length 4401
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -580,7 +580,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9:00-10:00 Introduction to the UNIX Shell) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9:00-10:00 Introduction to the UNIX Shell.) Tj T* ET
 Q
 Q
 q
@@ -652,7 +652,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12:30-14:00 GitHub: group collaboration and conflict resolution \(working in pairs\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (12:30-14:00 GitHub: group collaboration and conflict resolution \(working in pairs\).) Tj T* ET
 Q
 Q
 q
@@ -700,7 +700,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15:00-16:00 Contributing to projects with GitHub, pull requests \(working in pairs\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (15:00-16:00 Contributing to projects with GitHub, pull requests \(working in pairs\).) Tj T* ET
 Q
 Q
 q
@@ -710,31 +710,7 @@ q
 1 0 0 1 62.69291 523.0236 cm
 Q
 q
-1 0 0 1 62.69291 499.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.828555 Tw (16:00-17:00 Git - GitHub - R-Studio integration. Create toy project and manage it from R-Studio) Tj T* 0 Tw (\(maybe 1h30m?\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 493.0236 cm
-Q
-q
-1 0 0 1 62.69291 481.0236 cm
+1 0 0 1 62.69291 511.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -748,29 +724,53 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (17:00-17:30 Git front-ends overview) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (16:00-16:30 Git - GitHub - R-Studio integration.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 481.0236 cm
+1 0 0 1 62.69291 505.0236 cm
 Q
 q
-1 0 0 1 62.69291 448.0236 cm
+1 0 0 1 62.69291 493.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (16:30-17:00 Git front-ends overview.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 493.0236 cm
+Q
+q
+1 0 0 1 62.69291 460.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Lesson material and License) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 418.0236 cm
+1 0 0 1 62.69291 430.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .357633 Tw 12 TL /F1 10 Tf 0 0 0 rg (This material is forked from ") Tj 0 0 .501961 rg (An introduction to version control for novices using Git) Tj 0 0 0 rg (" and ") Tj 0 0 .501961 rg (The Unix Shell) Tj 0 0 0 rg (") Tj T* 0 Tw (Software Carpentry lessons. You can always find the last version of this material at the previous links.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 400.0236 cm
+1 0 0 1 62.69291 412.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This work is licensed under a ) Tj 0 0 .501961 rg (Creative Commons Attribution 4.0 International License \(CC BY\)) Tj 0 0 0 rg (.) Tj T* ET
 Q
@@ -823,14 +823,14 @@ xref
 0000004016 00000 n 
 0000004145 00000 n 
 0000004213 00000 n 
-0000011133 00000 n 
-0000015671 00000 n 
-0000015721 00000 n 
-0000015755 00000 n 
+0000011145 00000 n 
+0000015598 00000 n 
+0000015648 00000 n 
+0000015682 00000 n 
 trailer
 <<
 /ID 
-[<dd881deb47f674e894e822759fff566a><dd881deb47f674e894e822759fff566a>]
+[<8841f0a092ffb9d1b3fde6315358b3d4><8841f0a092ffb9d1b3fde6315358b3d4>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 20 0 R
@@ -838,5 +838,5 @@ trailer
 /Size 32
 >>
 startxref
-15789
+15716
 %%EOF
