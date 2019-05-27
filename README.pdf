@@ -129,7 +129,7 @@ endobj
 endobj
 20 0 obj
 <<
-/Author () /CreationDate (D:20190527133559-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527133559-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190527133926-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527133926-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (2019-06-04  - Introduction to Version Control with Git) /Trapped /False
 >>
 endobj
@@ -165,7 +165,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 7265
+/Length 7266
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -188,7 +188,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (AZTI-TECNALIA Pasajes, Sal\363n de Actos, Tuesday June the 4th, 9:00-17:00 2019) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (AZTI-Tecnalia, Pasajes, Sal\363n de Actos, Tuesday June the 4th, 9:00-17:00 2019) Tj T* ET
 Q
 Q
 q
@@ -844,14 +844,14 @@ xref
 0000004016 00000 n 
 0000004145 00000 n 
 0000004213 00000 n 
-0000011530 00000 n 
-0000015983 00000 n 
-0000016033 00000 n 
-0000016067 00000 n 
+0000011531 00000 n 
+0000015984 00000 n 
+0000016034 00000 n 
+0000016068 00000 n 
 trailer
 <<
 /ID 
-[<351d29d88a2f85b52ebcb9eccafe786d><351d29d88a2f85b52ebcb9eccafe786d>]
+[<7663093d886a6637adf00104746cfd82><7663093d886a6637adf00104746cfd82>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 20 0 R
@@ -859,5 +859,5 @@ trailer
 /Size 32
 >>
 startxref
-16101
+16102
 %%EOF
