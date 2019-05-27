@@ -18,14 +18,14 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://iamc.eu/2019-06-03-azti-shell)
+/S /URI /Type /Action /URI (http://iamc.eu/2019-06-04-azti-shell)
 >> /Border [ 0 0 0 ] /Rect [ 153.7323 665.7736 310.4623 677.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://iamc.eu/2019-06-03-azti-git)
+/S /URI /Type /Action /URI (http://iamc.eu/2019-06-04-azti-git)
 >> /Border [ 0 0 0 ] /Rect [ 153.7323 647.7736 300.4623 659.7736 ] /Subtype /Link /Type /Annot
 >>
 endobj
@@ -33,35 +33,35 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:inigo.aldazabalm@ehu.eus)
->> /Border [ 0 0 0 ] /Rect [ 263.5123 632.0236 384.2723 644.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 159.5723 620.0236 280.3323 632.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/Version_control)
->> /Border [ 0 0 0 ] /Rect [ 226.6429 578.0236 307.0571 590.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 226.6429 551.0236 307.0571 563.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://git-scm.com/)
->> /Border [ 0 0 0 ] /Rect [ 97.14291 566.0236 107.5977 578.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 97.14291 539.0236 107.5977 551.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com)
->> /Border [ 0 0 0 ] /Rect [ 94.93291 554.0236 126.0529 566.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 94.93291 527.0236 126.0529 539.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://scw-ss.github.io/2018-12-05-cfm/#setup)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 155.0236 163.2829 167.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 128.0236 163.2829 140.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
@@ -129,8 +129,8 @@ endobj
 endobj
 20 0 obj
 <<
-/Author () /CreationDate (D:20190527120435-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527120435-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (2019-06-03  - Introduction to Version Control with Git) /Trapped /False
+/Author () /CreationDate (D:20190527133559-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527133559-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (2019-06-04  - Introduction to Version Control with Git) /Trapped /False
 >>
 endobj
 21 0 obj
@@ -140,12 +140,12 @@ endobj
 endobj
 22 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 617.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (Abstract)
+/Dest [ 11 0 R /XYZ 62.69291 590.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (Abstract)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 236.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Computers setup)
+/Dest [ 11 0 R /XYZ 62.69291 209.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Computers setup)
 >>
 endobj
 24 0 obj
@@ -165,14 +165,14 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 6880
+/Length 7265
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 717.0236 cm
 q
-BT 1 0 0 1 0 28 Tm 3.794882 0 Td 24 TL /F2 20 Tf 0 0 0 rg (2019-06-03 - Introduction to Version Control with) Tj T* 217.26 0 Td (Git) Tj T* -221.0549 0 Td ET
+BT 1 0 0 1 0 28 Tm 3.794882 0 Td 24 TL /F2 20 Tf 0 0 0 rg (2019-06-04 - Introduction to Version Control with) Tj T* 217.26 0 Td (Git) Tj T* -221.0549 0 Td ET
 Q
 Q
 q
@@ -230,73 +230,94 @@ q
 1 0 0 1 91.03937 21 cm
 q
 0 0 .501961 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://iamc.eu/2019-06-03-azti-shell) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://iamc.eu/2019-06-04-azti-shell) Tj T* ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
 0 0 .501961 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://iamc.eu/2019-06-03-azti-git) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://iamc.eu/2019-06-04-azti-git) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 629.0236 cm
+1 0 0 1 62.69291 617.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 23.03937 0 Td (Instructor:) Tj T* -23.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm 6.455049 Tw 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa \(Centro de F\355sica de Materiales CSIC-UPV/EHU\)) Tj T* 0 Tw (<) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.04937 0 Td (Autor:) Tj T* -43.04937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.02937 0 Td (Helpers:) Tj T* -33.02937 0 Td ET
 Q
 Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (I\361igo Aldazabal Mensa <) Tj 0 0 .501961 rg (inigo.aldazabalm@ehu.eus) Tj 0 0 0 rg (>) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Guillermo Boyra \(AZTI-Tecnalia\),) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 569.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Abstract) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 554.0236 cm
+1 0 0 1 62.69291 527.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.924269 Tw 12 TL /F1 10 Tf 0 0 0 rg (This will be an introductory lesson to ) Tj 0 0 .501961 rg (version control) Tj 0 0 0 rg ( using the widespread distributed version control) Tj T* 0 Tw -0.105249 Tw (system ) Tj 0 0 .501961 rg (git) Tj 0 0 0 rg (. we will learn enough to use git to control our files in a day-to-day workflow, and we'll also take a) Tj T* 0 Tw (look at ) Tj 0 0 .501961 rg (GitHub) Tj 0 0 0 rg ( web service and play around a bit with it.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 500.0236 cm
+1 0 0 1 62.69291 473.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .885227 Tw (Version control is a system that records changes to a file or set of files over time so that you can recall) Tj T* 0 Tw .832619 Tw (specific versions later. It allows us to do things as jumping to any moment in a file past history, tracking) Tj T* 0 Tw .403059 Tw (changes and see differences between any two moments on time, long-term undo, seamlessly collaborate) Tj T* 0 Tw (with other people, and many others we'll see...) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 482.0236 cm
+1 0 0 1 62.69291 455.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We will cover topics as:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 476.0236 cm
+1 0 0 1 62.69291 449.0236 cm
 Q
 q
-1 0 0 1 62.69291 476.0236 cm
+1 0 0 1 62.69291 449.0236 cm
 Q
 q
-1 0 0 1 62.69291 464.0236 cm
+1 0 0 1 62.69291 437.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -317,10 +338,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 458.0236 cm
+1 0 0 1 62.69291 431.0236 cm
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 419.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -341,10 +362,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 440.0236 cm
+1 0 0 1 62.69291 413.0236 cm
 Q
 q
-1 0 0 1 62.69291 428.0236 cm
+1 0 0 1 62.69291 401.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -365,10 +386,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 395.0236 cm
 Q
 q
-1 0 0 1 62.69291 410.0236 cm
+1 0 0 1 62.69291 383.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -389,10 +410,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 404.0236 cm
+1 0 0 1 62.69291 377.0236 cm
 Q
 q
-1 0 0 1 62.69291 392.0236 cm
+1 0 0 1 62.69291 365.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -413,10 +434,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 359.0236 cm
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 62.69291 347.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -437,10 +458,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 368.0236 cm
+1 0 0 1 62.69291 341.0236 cm
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 329.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -461,54 +482,54 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 356.0236 cm
+1 0 0 1 62.69291 329.0236 cm
 Q
 q
-1 0 0 1 62.69291 326.0236 cm
+1 0 0 1 62.69291 299.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .10104 Tw (A short introduction to basic UNIX command line usage will be given, as the first part of the workshop with) Tj T* 0 Tw (be done in the command line.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 284.0236 cm
+1 0 0 1 62.69291 257.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.684597 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested having a control over the evolution and) Tj T* 0 Tw 1.123672 Tw (history of changes of files and projects they work on, as well as to collaborate with others on a shared) Tj T* 0 Tw (repository.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 266.0236 cm
+1 0 0 1 62.69291 239.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 248.0236 cm
+1 0 0 1 62.69291 221.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: none) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 215.0236 cm
+1 0 0 1 62.69291 188.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Computers setup) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 185.0236 cm
+1 0 0 1 62.69291 158.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.015984 Tw (This is a hands-on workshop. Participants are encouraged to follow the lesson typing along with the) Tj T* 0 Tw (instructor in their own laptops.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 155.0236 cm
+1 0 0 1 62.69291 128.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .76436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Your computers should ideally be already configured by the workshop's day. For this you can follow this) Tj T* 0 Tw 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (, "The Bash Shell" and "Git" sections, and ignoring the last Python part if you want.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 143.0236 cm
+1 0 0 1 62.69291 116.0236 cm
 Q
  
 endstream
@@ -823,14 +844,14 @@ xref
 0000004016 00000 n 
 0000004145 00000 n 
 0000004213 00000 n 
-0000011145 00000 n 
-0000015598 00000 n 
-0000015648 00000 n 
-0000015682 00000 n 
+0000011530 00000 n 
+0000015983 00000 n 
+0000016033 00000 n 
+0000016067 00000 n 
 trailer
 <<
 /ID 
-[<8841f0a092ffb9d1b3fde6315358b3d4><8841f0a092ffb9d1b3fde6315358b3d4>]
+[<351d29d88a2f85b52ebcb9eccafe786d><351d29d88a2f85b52ebcb9eccafe786d>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 20 0 R
@@ -838,5 +859,5 @@ trailer
 /Size 32
 >>
 startxref
-15716
+16101
 %%EOF

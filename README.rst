@@ -1,13 +1,15 @@
 ******************************************************
-2019-06-03  - Introduction to Version Control with Git
+2019-06-04  - Introduction to Version Control with Git
 ******************************************************
 
 :Date & place:  AZTI-TECNALIA Pasajes, Salón de Actos, Tuesday June the 4th, 9:00-17:00 2019
 :Track: Introduction to Version Control with Git
-:Material: http://iamc.eu/2019-06-03-azti-shell 
+:Material: http://iamc.eu/2019-06-04-azti-shell 
            
-           http://iamc.eu/2019-06-03-azti-git
-:Autor: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
+           http://iamc.eu/2019-06-04-azti-git
+:Instructor: Iñigo Aldazabal Mensa (Centro de Física de Materiales
+             CSIC-UPV/EHU) <inigo.aldazabalm@ehu.eus>
+:Helpers: Guillermo Boyra (AZTI-Tecnalia),
 
 
 Abstract
