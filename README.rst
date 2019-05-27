@@ -65,7 +65,7 @@ Temptative schedule
 * *11:30-12:00 coffee break*
 * 12:30-14:00 GitHub: group collaboration and conflict resolution
   (working in pairs)
-* *14:00-16:00 lunch (maybe 1h30m?)*
+* *14:00-15:00 lunch*
 * 15:00-16:00 Contributing to projects with GitHub, pull requests
   (working in pairs)
 * 16:00-17:00 Git - GitHub - R-Studio integration. Create toy project
