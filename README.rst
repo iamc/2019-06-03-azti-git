@@ -9,7 +9,8 @@
            http://iamc.eu/2019-06-04-azti-git
 :Instructor: Iñigo Aldazabal Mensa (Centro de Física de Materiales
              CSIC-UPV/EHU) <inigo.aldazabalm@ehu.eus>
-:Helpers: Guillermo Boyra (AZTI-Tecnalia),
+:Helpers: Guillermo Boyra (AZTI-Tecnalia), Abel Carreras (Donostia
+          International Physics Center - DIPC)
 
 
 Abstract
