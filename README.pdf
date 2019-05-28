@@ -61,7 +61,7 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://scw-ss.github.io/2018-12-05-cfm/#setup)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 116.0236 163.2829 128.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 86.02362 163.2829 98.02362 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
@@ -129,7 +129,7 @@ endobj
 endobj
 20 0 obj
 <<
-/Author () /CreationDate (D:20190527150122-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190527150122-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190528092350-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190528092350-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (2019-06-04  - Introduction to Version Control with Git) /Trapped /False
 >>
 endobj
@@ -145,7 +145,7 @@ endobj
 endobj
 23 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 197.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Computers setup)
+/Dest [ 11 0 R /XYZ 62.69291 167.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Computers setup)
 >>
 endobj
 24 0 obj
@@ -165,7 +165,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 7356
+/Length 7649
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -492,44 +492,51 @@ BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .10104 Tw (A short introduction to basic UNIX
 Q
 Q
 q
-1 0 0 1 62.69291 245.0236 cm
+1 0 0 1 62.69291 257.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.19811 Tw (The instructor is a certified Software and Data Carpentry Instructor and for the workshop we will follow) Tj T* 0 Tw (official Software Carpentry methodology and Git and UNIX Shell lessons.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.684597 Tw 12 TL /F2 10 Tf 0 0 0 rg (Targeted audience) Tj /F1 10 Tf (: scientific and technical people interested having a control over the evolution and) Tj T* 0 Tw 1.123672 Tw (history of changes of files and projects they work on, as well as to collaborate with others on a shared) Tj T* 0 Tw (repository.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 227.0236 cm
+1 0 0 1 62.69291 197.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Content level) Tj /F1 10 Tf (: beginner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 209.0236 cm
+1 0 0 1 62.69291 179.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Audience prerequisites) Tj /F1 10 Tf (: none) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 176.0236 cm
+1 0 0 1 62.69291 146.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Computers setup) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 146.0236 cm
+1 0 0 1 62.69291 116.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.015984 Tw (This is a hands-on workshop. Participants are encouraged to follow the lesson typing along with the) Tj T* 0 Tw (instructor in their own laptops.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 116.0236 cm
+1 0 0 1 62.69291 86.02362 cm
 q
 BT 1 0 0 1 0 14 Tm .76436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Your computers should ideally be already configured by the workshop's day. For this you can follow this) Tj T* 0 Tw 0 0 .501961 rg (installation instructions) Tj 0 0 0 rg (, "The Bash Shell" and "Git" sections, and ignoring the last Python part if you want.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 104.0236 cm
+1 0 0 1 62.69291 76.86614 cm
 Q
  
 endstream
@@ -844,14 +851,14 @@ xref
 0000004016 00000 n 
 0000004145 00000 n 
 0000004213 00000 n 
-0000011621 00000 n 
-0000016074 00000 n 
-0000016124 00000 n 
-0000016158 00000 n 
+0000011914 00000 n 
+0000016367 00000 n 
+0000016417 00000 n 
+0000016451 00000 n 
 trailer
 <<
 /ID 
-[<204fdbf6eb3452f773776798ed13d051><204fdbf6eb3452f773776798ed13d051>]
+[<a680a2c384ebda9e2a616b438a52070b><a680a2c384ebda9e2a616b438a52070b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 20 0 R
@@ -859,5 +866,5 @@ trailer
 /Size 32
 >>
 startxref
-16192
+16485
 %%EOF

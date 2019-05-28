@@ -35,6 +35,10 @@ We will cover topics as:
 A short introduction to basic UNIX command line usage will be given, as the
 first part of the workshop with be done in the command line.
 
+The instructor is a certified Software and Data Carpentry Instructor and for
+the workshop we will follow official Software Carpentry methodology and Git and UNIX Shell lessons.
+
+
 **Targeted audience**: scientific and technical people interested having a
 control over the evolution and history of changes of files and projects they work on, as well as to collaborate with others on a shared repository.
 
