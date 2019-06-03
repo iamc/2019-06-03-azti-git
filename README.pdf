@@ -129,7 +129,7 @@ endobj
 endobj
 20 0 obj
 <<
-/Author () /CreationDate (D:20190528092350-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190528092350-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190603225939-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190603225939-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (2019-06-04  - Introduction to Version Control with Git) /Trapped /False
 >>
 endobj
@@ -165,7 +165,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 7649
+/Length 7679
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -278,7 +278,7 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.012913 Tw (Guillermo Boyra \(AZTI-Tecnalia\), Abel Carreras \(Donostia International Physics) Tj T* 0 Tw (Center - DIPC\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.012913 Tw (Guillermo Boyra \(AZTI-Tecnalia\), Abel Carreras \(Donostia International Physics) Tj T* 0 Tw (Center - DIPC\), Jon Uranga \(AZTI-Tecnalia\)) Tj T* ET
 Q
 Q
 q
@@ -851,14 +851,14 @@ xref
 0000004016 00000 n 
 0000004145 00000 n 
 0000004213 00000 n 
-0000011914 00000 n 
-0000016367 00000 n 
-0000016417 00000 n 
-0000016451 00000 n 
+0000011944 00000 n 
+0000016397 00000 n 
+0000016447 00000 n 
+0000016481 00000 n 
 trailer
 <<
 /ID 
-[<a680a2c384ebda9e2a616b438a52070b><a680a2c384ebda9e2a616b438a52070b>]
+[<17d7e7a6b619da39666aae5057c96eef><17d7e7a6b619da39666aae5057c96eef>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 20 0 R
@@ -866,5 +866,5 @@ trailer
 /Size 32
 >>
 startxref
-16485
+16515
 %%EOF

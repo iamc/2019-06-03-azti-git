@@ -10,7 +10,7 @@
 :Instructor: Iñigo Aldazabal Mensa (Centro de Física de Materiales
              CSIC-UPV/EHU) <inigo.aldazabalm@ehu.eus>
 :Helpers: Guillermo Boyra (AZTI-Tecnalia), Abel Carreras (Donostia
-          International Physics Center - DIPC)
+          International Physics Center - DIPC), Jon Uranga (AZTI-Tecnalia)
 
 
 Abstract
